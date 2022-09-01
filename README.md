@@ -26,6 +26,6 @@ I've been learning to code from the start of 2022. Started with HTML CSS JavaScr
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/syahbes"><img src="https://github-readme-stats.vercel.app/api?username=syahbes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="syahbes's GitHub stats" /></a>
+<a href="http://www.github.com/syahbes"><img src="https://github-readme-stats.vercel.app/api?username=syahbes&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="syahbes's GitHub stats" /></a>
 
-<a href="https://github.com/syahbes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahbes&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/syahbes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahbes&langs_count=10&title_color=ec4899&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
