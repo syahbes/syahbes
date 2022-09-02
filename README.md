@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shlomi Yahbes
+Hi, I'm Shlomi Yahbes
 =====================================================================================================================================
 
 Web Developer
@@ -6,8 +6,8 @@ Web Developer
 
 I've been learning to code from the start of 2022. Started with HTML CSS JavaScript and React
 
-*   🖥️  See my portfolio at [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/)
-*   ✉️  You can contact me at [syahbes@gmail.com](mailto:syahbes@gmail.com)
+* See my portfolio at [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/)
+* You can contact me at [syahbes@gmail.com](mailto:syahbes@gmail.com)
 
 ### Skills
 <p align="left">
@@ -21,7 +21,7 @@ I've been learning to code from the start of 2022. Started with HTML CSS JavaScr
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                     </p>
                     
-### Socials
+### LinkedIn :
   <p align="left"><a href="https://www.linkedin.com/in/shlomi427/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <b>My GitHub Stats</b>
