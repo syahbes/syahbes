@@ -6,8 +6,7 @@ Web Developer
 
 I've been learning to code from the start of 2022. Started with HTML CSS JavaScript and React
 
-* See my portfolio at [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/)
-* and [Portfolio with code](https://portfolio3-work-in-progress.vercel.app/Portfolio)
+* See my portfolio at [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/) and [Portfolio with code](https://portfolio3-work-in-progress.vercel.app/Portfolio)
 * You can contact me at [syahbes@gmail.com](mailto:syahbes@gmail.com)
 
 ### Skills
