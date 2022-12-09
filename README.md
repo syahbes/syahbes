@@ -1,13 +1,9 @@
-Hi, I'm Shlomi Yahbes
+Shlomi Yahbes - Web Developer
 =====================================================================================================================================
+Hi! My name is Shlomi and I am a self-taught front-end developer. I have a passion for coding and have been learning through resources like FreeCodeCamp, Scrimba YouTube, and reading the documentation. My main focus is on technologies such as CSS, HTML, JavaScript, React.js, React Native, Redux, and Firebase. I am always looking to improve my skills and learn new technologies in the field. Thank you for checking out my Github profile.
 
-Web Developer
--------------
-
-I've been learning to code from the start of 2022. Started with HTML CSS JavaScript and React
-
-* See my portfolio at [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/) and [Portfolio with code](https://portfolio3-work-in-progress.vercel.app/Portfolio)
-* You can contact me at [syahbes@gmail.com](mailto:syahbes@gmail.com)
+* To view my portfolio, please visit [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/) and [Portfolio with code](https://portfolio3-work-in-progress.vercel.app/Portfolio). 
+* You can contact me directly at  [syahbes@gmail.com](mailto:syahbes@gmail.com)
 
 ### Skills
 <p align="left">
