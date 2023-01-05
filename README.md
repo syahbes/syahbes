@@ -4,7 +4,7 @@ Hi, my name is Shlomi and I am a self-taught web developer with a passion for co
 
 I am excited to share my work with others and welcome the opportunity to collaborate on projects or work with others to achieve a shared goal. My portfolio, which includes examples of my work and code, can be viewed at MyPortfolio and Portfolio with code. If you would like to contact me directly, you can reach me at syahbes@gmail.com. Thank you for visiting my Github profile!
 
-* To view my portfolio, please visit [MyPortfolio](http://portfolio-shlomi-y-dt.netlify.app/) and [Portfolio with code](https://portfolio3-work-in-progress.vercel.app/Portfolio). 
+* To view my portfolio, please visit [MyPortfolio](https://portfolio3-work-in-progress.vercel.app/Portfolio). 
 
 ### Skills
 <p align="left">
