@@ -1,10 +1,16 @@
-Shlomi Yahbes - Web Developer
-=====================================================================================================================================
-Hi, my name is Shlomi and I am a self-taught web developer with a passion for coding. I have been learning and improving my skills through resources like FreeCodeCamp, Scrimba YouTube, and reading documentation. My main focus is on front-end technologies such as CSS, HTML, JavaScript, React.js, React Native, Redux, and Firebase. I am always eager to learn new technologies and improve my skills in the field.
+# Shlomi Yahbes - Web Developer
 
-I am excited to share my work with others and welcome the opportunity to collaborate on projects or work with others to achieve a shared goal. My portfolio, which includes examples of my work and code, can be viewed at MyPortfolio and Portfolio with code. If you would like to contact me directly, you can reach me at syahbes@gmail.com. Thank you for visiting my Github profile!
+Hi, my name is Shlomi and I am a self-taught web developer with a passion for coding. I have been learning and improving my skills through resources like FreeCodeCamp, Scrimba YouTube, and reading documentation. My main focus is on front-end technologies such as HTML, CSS, JavaScript, React.js, React Native, Redux, and Firebase. I am always eager to learn new technologies and improve my skills in the field.
 
-* To view my portfolio, please visit [MyPortfolio](https://portfolio3-work-in-progress.vercel.app/). 
+I am excited to share my work with others and welcome the opportunity to collaborate on projects or work with others to achieve a shared goal. My portfolio, which includes examples of my work and code, can be viewed at [MyPortfolio](https://portfolio3-work-in-progress.vercel.app/) 
+If you would like to contact me directly, you can reach me at syahbes@gmail.com
+
+Thank you for visiting my Github profile!
+
+## Skills
+
+* Front-end technologies: HTML, CSS, JavaScript, React.js, React Native, Redux, Firebase
+* Back-end technologies: Node.js, Express, MongoDB, Firebase
 
 ### Skills
 <p align="left">
@@ -17,3 +23,5 @@ I am excited to share my work with others and welcome the opportunity to collabo
                                 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
                                 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
                     </p>
+
+Thrilled to have contributed to this incredible project! : https://www.pc.co.il/featured/384795/
