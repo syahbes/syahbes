@@ -1,4 +1,4 @@
-# Shlomi Yahbes - Web Developer
+## Shlomi Yahbes - Web Developer
 
 Hi, my name is Shlomi and I am a self-taught web developer with a passion for coding. I have been learning and improving my skills through resources like FreeCodeCamp, Scrimba YouTube, and reading documentation. My main focus is on front-end technologies such as HTML, CSS, JavaScript, React.js, React Native, Redux, and Firebase. I am always eager to learn new technologies and improve my skills in the field.
 
@@ -7,12 +7,11 @@ If you would like to contact me directly, you can reach me at syahbes@gmail.com
 
 Thank you for visiting my Github profile!
 
-## Skills
+### Skills
 
 * Front-end technologies: HTML, CSS, JavaScript, React.js, React Native, Redux, Firebase
 * Back-end technologies: Node.js, Express, MongoDB, Firebase
 
-### Skills
 <p align="left">
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
