@@ -4,6 +4,8 @@
 
 I'm excited to share my work with others and welcome the opportunity to collaborate on projects or work with others to achieve a shared goal. My portfolio, which includes examples of my work and code, can be viewed at [MyPortfolio](https://portfolio3-work-in-progress.vercel.app/) . If you would like to contact me directly, you can reach me at syahbes@gmail.com .
 
+<b>Thrilled</b> to have contributed to this important project! : https://www.pc.co.il/featured/384795/
+
 ### Skills
 
 Front-end technologies: HTML, CSS, JavaScript, React.js, React Native, Redux, MUI<br/>
@@ -25,5 +27,3 @@ Version control systems: Git, GitHub<br/>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
-
-Thrilled to have contributed to this incredible project! : https://www.pc.co.il/featured/384795/
