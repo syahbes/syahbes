@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/syahbes"><img src="https://api.daily.dev/devcards/v2/e1FsTiEg5DqxwZYpf6usA.png?r=9ai" width="356" alt="Shlomi Yahbes's Dev Card"/></a>
+
 # 💫 About Me:
  Hi, I'm Shlomi Yahbes, a self-taught web developer with a passion for coding. I'm always eager to learn new technologies and improve my skills in the field.<br><br>I'm excited to share my work with others and welcome the opportunity to collaborate on projects or work with others to achieve a shared goal. My portfolio, which includes examples of my work and code, can be viewed at [MyPortfolio](https://shlomi-yahbes.vercel.app/) . If you would like to contact me directly, you can reach me at syahbes@gmail.com .<br><br>Thrilled to have contributed to this important project! : https://www.pc.co.il/featured/384795/
 
