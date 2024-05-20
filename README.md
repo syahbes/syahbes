@@ -1,20 +1,21 @@
 ```
-EEEEEEEEEEEEEEEEEEEEEE
-E::::::::::::::::::::E
-E::::::::::::::::::::E
-EE::::::EEEEEEEEE::::E
-E:::::E EEEEEE ssssssssss cccccccccccccccc
-E:::::E ss::::::::::s cc:::::::::::::::c
-E::::::EEEEEEEEEE ss:::::::::::::s c:::::::::::::::::c
-E:::::::::::::::E s::::::ssss:::::sc:::::::cccccc:::::c
-E:::::::::::::::E s:::::s ssssss c::::::c ccccccc
-E::::::EEEEEEEEEE s::::::s c:::::c
-E:::::E s::::::s c:::::c
-E:::::E EEEEEEssssss s:::::s c::::::c ccccccc
+EEEEEEEEEEEEEEEEEEEEEE                                     
+E::::::::::::::::::::E                                     
+E::::::::::::::::::::E                                     
+EE::::::EEEEEEEEE::::E                                     
+  E:::::E       EEEEEE    ssssssssss       cccccccccccccccc
+  E:::::E               ss::::::::::s    cc:::::::::::::::c
+  E::::::EEEEEEEEEE   ss:::::::::::::s  c:::::::::::::::::c
+  E:::::::::::::::E   s::::::ssss:::::sc:::::::cccccc:::::c
+  E:::::::::::::::E    s:::::s  ssssss c::::::c     ccccccc
+  E::::::EEEEEEEEEE      s::::::s      c:::::c             
+  E:::::E                   s::::::s   c:::::c             
+  E:::::E       EEEEEEssssss   s:::::s c::::::c     ccccccc
 EE::::::EEEEEEEE:::::Es:::::ssss::::::sc:::::::cccccc:::::c
-E::::::::::::::::::::Es::::::::::::::s c:::::::::::::::::c
-E::::::::::::::::::::E s:::::::::::ss cc:::::::::::::::c
-EEEEEEEEEEEEEEEEEEEEEE sssssssssss cccccccccccccccc
+E::::::::::::::::::::Es::::::::::::::s  c:::::::::::::::::c
+E::::::::::::::::::::E s:::::::::::ss    cc:::::::::::::::c
+EEEEEEEEEEEEEEEEEEEEEE  sssssssssss        cccccccccccccccc
+
 ```
                                         
 # 💫 About Me:
