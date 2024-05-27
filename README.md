@@ -4,7 +4,6 @@ Todo es posible y nada es seguro.
 
 Reach me at syahbes@gmail.com
 
-My stack
 [![](https://skillicons.dev/icons?i=js,html,css,react,redux,vite,ts,firebase,linux,mint,materialui,mongodb,mysql,netlify,nodejs,notion,npm,vue,vuetify)](https://skillicons.dev)
 
 ```
