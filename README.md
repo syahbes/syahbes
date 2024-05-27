@@ -1,10 +1,26 @@
 ```
-.d8888. db   db db       .d88b.  .88b  d88. d888888b   db    db  .d8b.  db   db d8888b. d88888b .d8888. 
-88'  YP 88   88 88      .8P  Y8. 88'YbdP`88   `88'     `8b  d8' d8' `8b 88   88 88  `8D 88'     88'  YP 
-`8bo.   88ooo88 88      88    88 88  88  88    88       `8bd8'  88ooo88 88ooo88 88oooY' 88ooooo `8bo.   
-  `Y8b. 88~~~88 88      88    88 88  88  88    88         88    88~~~88 88~~~88 88~~~b. 88~~~~~   `Y8b. 
-db   8D 88   88 88booo. `8b  d8' 88  88  88   .88.        88    88   88 88   88 88   8D 88.     db   8D 
-`8888Y' YP   YP Y88888P  `Y88P'  YP  YP  YP Y888888P      YP    YP   YP YP   YP Y8888P' Y88888P `8888Y' 
+
+#   .oooooo..o oooo        oooo                               o8o    
+#  d8P'    `Y8 `888        `888                               `"'    
+#  Y88bo.       888 .oo.    888   .ooooo.  ooo. .oo.  .oo.   oooo    
+#   `"Y8888o.   888P"Y88b   888  d88' `88b `888P"Y88bP"Y88b  `888    
+#       `"Y88b  888   888   888  888   888  888   888   888   888    
+#  oo     .d8P  888   888   888  888   888  888   888   888   888    
+#  8""88888P'  o888o o888o o888o `Y8bod8P' o888o o888o o888o o888o   
+#                                                                    
+#                                                                    
+#                                                                    
+#  oooooo   oooo           oooo         .o8                          
+#   `888.   .8'            `888        "888                          
+#    `888. .8'    .oooo.    888 .oo.    888oooo.   .ooooo.   .oooo.o 
+#     `888.8'    `P  )88b   888P"Y88b   d88' `88b d88' `88b d88(  "8 
+#      `888'      .oP"888   888   888   888   888 888ooo888 `"Y88b.  
+#       888      d8(  888   888   888   888   888 888    .o o.  )88b 
+#      o888o     `Y888""8o o888o o888o  `Y8bod8P' `Y8bod8P' 8""888P' 
+#                                                                    
+#                                                                    
+#                                                                    
+
 ```
 
 Todo es posible y nada es seguro.
