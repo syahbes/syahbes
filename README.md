@@ -11,5 +11,22 @@
 
 [![](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,redux,firebase,linux,mint,materialui,mongodb,mysql,netlify,vercel,nodejs,vuetify)](https://skillicons.dev)
 
+<div align="center">
+<pre>
+##\       ##\   ##\               ##\                  ##\     
+## |      \__|  ## |              ## |                 ## |    
+#######\  ##\ ######\    #######\ #######\   ######\ ######\   
+##  __##\ ## |\_##  _|  ##  _____|##  __##\  \____##\\_##  _|  
+## |  ## |## |  ## |    ## /      ## |  ## | ####### | ## |    
+## |  ## |## |  ## |##\ ## |      ## |  ## |##  __## | ## |##\ 
+#######  |## |  \####  |\#######\ ## |  ## |\####### | \####  |
+\_______/ \__|   \____/  \_______|\___|  \__| \_______|  \____/ 
 </pre>
+
+**_bitch@ the terminal v1.0.0_**
+
+**Decentralized • Encrypted • Peer-to-Peer • Open Source | Written in Rust**
+
 </div>
+
+---
