@@ -1,16 +1,3 @@
-```
-    ░██████╗██╗░░██╗██╗░░░░░░█████╗░███╗░░░███╗██╗
-    ██╔════╝██║░░██║██║░░░░░██╔══██╗████╗░████║██║
-    ╚█████╗░███████║██║░░░░░██║░░██║██╔████╔██║██║
-    ░╚═══██╗██╔══██║██║░░░░░██║░░██║██║╚██╔╝██║██║
-    ██████╔╝██║░░██║███████╗╚█████╔╝██║░╚═╝░██║██║
-    ╚═════╝░╚═╝░░╚═╝╚══════╝░╚════╝░╚═╝░░░░░╚═╝╚═╝
-```
-
-## Todo es posible y nada es seguro.
-
-[![](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,redux,firebase,linux,mint,materialui,mongodb,mysql,netlify,vercel,nodejs,vuetify)](https://skillicons.dev)
-
 <div align="center">
 <pre>
     ░██████╗██╗░░██╗██╗░░░░░░█████╗░███╗░░░███╗██╗
@@ -21,10 +8,8 @@
     ╚═════╝░╚═╝░░╚═╝╚══════╝░╚════╝░╚═╝░░░░░╚═╝╚═╝
 </pre>
 
-**_bitch@ the terminal v1.0.0_**
+## Todo es posible y nada es seguro.
 
-**Decentralized • Encrypted • Peer-to-Peer • Open Source | Written in Rust**
+[![](https://skillicons.dev/icons?i=js,ts,html,css,react,next,vue,redux,firebase,linux,mint,materialui,mongodb,mysql,netlify,vercel,nodejs,vuetify)](https://skillicons.dev)
 
 </div>
-
----
